@@ -1,0 +1,57 @@
+.options {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #2F281E;
+    line-height: 2;
+    position: absolute;
+    left: 46.43%;
+    right: 28.57%;
+    word-spacing: 20px;
+    width: 350px;
+    height: 28px;
+    margin-left: 320px;
+}
+
+.navigation{
+    width: 1400px;
+    height: 78px;
+    margin-right: 29px;
+}
+
+.logo {
+    width: 187px;
+    height: 32;
+    margin-left: 143px;
+    margin-top: 22px;
+    margin-bottom: 24px;
+    margin-right: 320px;
+}
+
+.button1 {
+    width: 102px;
+    height: 46px;
+    color: #173A56;
+    border-color: #BCD0E5;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    margin-right: 14px;
+    border-radius: 5%;
+}
+
+.button2 {
+    width: 110px;
+    height: 46px;
+    background-color: #FF9900;
+    color: #FFFFFF;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    margin-right: 145px;
+    border: none;
+    border-radius: 5%;
+}
